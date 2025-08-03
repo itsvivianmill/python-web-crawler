@@ -1,3 +1,3 @@
 # python-web-crawler
 
-Using scrapy
+Using beautiful soup library
